@@ -1,0 +1,16 @@
+C:\Users\DavidCicconi\Desktop\Cursos\Coderhouse\desafios\Desafio1NombreApellido\Desafio1NombreApellido\bin\Debug\net6.0-windows\Desafio1NombreApellido.exe
+C:\Users\DavidCicconi\Desktop\Cursos\Coderhouse\desafios\Desafio1NombreApellido\Desafio1NombreApellido\bin\Debug\net6.0-windows\Desafio1NombreApellido.deps.json
+C:\Users\DavidCicconi\Desktop\Cursos\Coderhouse\desafios\Desafio1NombreApellido\Desafio1NombreApellido\bin\Debug\net6.0-windows\Desafio1NombreApellido.runtimeconfig.json
+C:\Users\DavidCicconi\Desktop\Cursos\Coderhouse\desafios\Desafio1NombreApellido\Desafio1NombreApellido\bin\Debug\net6.0-windows\Desafio1NombreApellido.dll
+C:\Users\DavidCicconi\Desktop\Cursos\Coderhouse\desafios\Desafio1NombreApellido\Desafio1NombreApellido\bin\Debug\net6.0-windows\Desafio1NombreApellido.pdb
+C:\Users\DavidCicconi\Desktop\Cursos\Coderhouse\desafios\Desafio1NombreApellido\Desafio1NombreApellido\obj\Debug\net6.0-windows\Desafio1NombreApellido.Form1.resources
+C:\Users\DavidCicconi\Desktop\Cursos\Coderhouse\desafios\Desafio1NombreApellido\Desafio1NombreApellido\obj\Debug\net6.0-windows\Desafio1NombreApellido.csproj.GenerateResource.cache
+C:\Users\DavidCicconi\Desktop\Cursos\Coderhouse\desafios\Desafio1NombreApellido\Desafio1NombreApellido\obj\Debug\net6.0-windows\Desafio1NombreApellido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DavidCicconi\Desktop\Cursos\Coderhouse\desafios\Desafio1NombreApellido\Desafio1NombreApellido\obj\Debug\net6.0-windows\Desafio1NombreApellido.AssemblyInfoInputs.cache
+C:\Users\DavidCicconi\Desktop\Cursos\Coderhouse\desafios\Desafio1NombreApellido\Desafio1NombreApellido\obj\Debug\net6.0-windows\Desafio1NombreApellido.AssemblyInfo.cs
+C:\Users\DavidCicconi\Desktop\Cursos\Coderhouse\desafios\Desafio1NombreApellido\Desafio1NombreApellido\obj\Debug\net6.0-windows\Desafio1NombreApellido.csproj.CoreCompileInputs.cache
+C:\Users\DavidCicconi\Desktop\Cursos\Coderhouse\desafios\Desafio1NombreApellido\Desafio1NombreApellido\obj\Debug\net6.0-windows\Desafio1NombreApellido.dll
+C:\Users\DavidCicconi\Desktop\Cursos\Coderhouse\desafios\Desafio1NombreApellido\Desafio1NombreApellido\obj\Debug\net6.0-windows\refint\Desafio1NombreApellido.dll
+C:\Users\DavidCicconi\Desktop\Cursos\Coderhouse\desafios\Desafio1NombreApellido\Desafio1NombreApellido\obj\Debug\net6.0-windows\Desafio1NombreApellido.pdb
+C:\Users\DavidCicconi\Desktop\Cursos\Coderhouse\desafios\Desafio1NombreApellido\Desafio1NombreApellido\obj\Debug\net6.0-windows\Desafio1NombreApellido.genruntimeconfig.cache
+C:\Users\DavidCicconi\Desktop\Cursos\Coderhouse\desafios\Desafio1NombreApellido\Desafio1NombreApellido\obj\Debug\net6.0-windows\ref\Desafio1NombreApellido.dll
